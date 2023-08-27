@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1063870637074-3et3e7tl174a833ard3csifuvp02tbe0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1063870637074-3et3e7tl174a833ard3csifuvp02tbe0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyASwKTk36mKzUTo7v-32J47XWi82cKc5wM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1063870637074</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>sunny.edu.PlanEasy</string>
+	<key>PROJECT_ID</key>
+	<string>finalyearproject-5eba3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>finalyearproject-5eba3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1063870637074:ios:39ebd815e5241112af64cb</string>
+</dict>
+</plist>
